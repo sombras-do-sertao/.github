@@ -20,7 +20,6 @@
   | <img src="https://github.com/PedroFnseca.png?size=100" width="100"> | [Pedro Fonseca](https://github.com/PedroFnseca) | `@PedroFnseca` |
   | <img src="https://github.com/LucasdesS.png?size=100" width="100"> | [Lucas de Souza](https://github.com/LucasdesS) | `@LucasdesS` |
   | <img src="https://github.com/EduLeal.png?size=100" width="100"> | [Eduardo Leal](https://github.com/EduLeal) | `@EduLeal` |
-  | <img src="https://github.com/AndreCcerq.png?size=100" width="100"> | [André Cerqueira](https://github.com/AndreCcerq) | `@AndreCcerq` |
   
 </div>
 
